@@ -10,3 +10,9 @@ This is a project trying to guide students trought [github](https://www.github.c
 
 - Bullet 1
 - Bullet 2
+
+
+## Change log
+
+#### version 1.0.0
+  - Change documentation inside the readMe file
